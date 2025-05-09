@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shrawan Matrubai</h1>
 <h3 align="center">
-I am a passionate software developer with expertise in C, C++, and Data Structures & Algorithms, actively exploring Python, NumPy, and Pandas for data-driven solutions. I have the entrepreneurial zeal to provide value to the people and organizations that trust in me, ensuring impactful contributions and long-term growth. I’m always open to collaborating on exciting projects, discussing tech trends, and networking with like-minded professionals. Let’s connect!</h3>
+I am a software engineer with experience in full-stack web development, Web3, blockchain, and AI/ML, with solid proficiency in C++, Python, Data Structures & Algorithms, System Design, and SQL. To create effective, practical solutions, I'm excited to combine technology and finance.
+
+I have an entrepreneurial spirit and am compelled to develop high-impact, scalable products that accumulate value over time for businesses and people alike. I thrive in high-speed, team-oriented settings that turn the conventional on its head when it comes to creativity and learning.
+
+Ready to meet and talk with like-minded folks about new IT trends and work on exciting projects. Let's get together! I’m always open to collaborating on exciting projects, discussing tech trends, and networking with like-minded professionals. </h3>
 
 - 🔭 I’m currently working on **Fitness Tracker**
 
